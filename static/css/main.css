@@ -345,6 +345,30 @@ section .main-body {
     font-weight: 800;
 }
 
+.commentary-entry + .commentary-entry {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(16, 65, 86, 0.08);
+}
+
+.commentary-title {
+    margin-bottom: 0.25rem;
+    color: var(--ink);
+    font-weight: 700;
+    line-height: 1.75;
+}
+
+.feature-link {
+    color: var(--accent);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.feature-link:hover {
+    color: var(--accent-deep);
+    text-decoration: underline;
+}
+
 .main-body h4 {
     position: relative;
     padding-left: 0.95rem;
