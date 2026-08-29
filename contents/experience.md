@@ -32,7 +32,7 @@
   <div class="feature-card">
     <h4>Professional Service</h4>
     <p>
-      Reviewer for <em>Marine Policy</em>, <em>Ocean &amp; Coastal Management</em>, <em>Aquaculture International</em>,
+      Reviewer for <em>Marine Policy</em>, <em>Ocean &amp; Coastal Management</em>, <em>npj Ocean Sustainability</em>,
       <em>Frontiers in Marine Science</em>, and <em>Discover Oceans</em>.
     </p>
     <p>

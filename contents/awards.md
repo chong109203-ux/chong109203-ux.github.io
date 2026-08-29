@@ -7,7 +7,7 @@
   <div class="feature-card">
     <h4>Recognition</h4>
     <p class="feature-title">Reviewer for SSCI/SCI journals in marine policy and marine science</p>
-    <p>Marine Policy · Ocean &amp; Coastal Management · Aquaculture International · Frontiers in Marine Science · Discover Oceans</p>
+    <p>Marine Policy · Ocean &amp; Coastal Management · npj Ocean Sustainability · Frontiers in Marine Science · Discover Oceans</p>
     <p class="feature-title">Policy writing cited in provincial or ministerial-level policy discussions</p>
   </div>
 </div>
